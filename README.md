@@ -1,2 +1,0 @@
-# AirbnbTESTEN
-My Repository Testen
